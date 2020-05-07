@@ -1,0 +1,52 @@
+Learn HTML attributes to divide up website
+
+
+CSS fundamentals of colors, fonts, positioning, box model
+
+CSS grid and flexbox
+
+CSS custom properties
+
+CSS transitions
+
+
+Responseive design:
+
+Viewport
+
+Media Queries
+
+Fluid Widths
+
+Rem units over px
+
+Mobile First
+
+
+CSS Custom Reusable Componenets
+
+Maybe use SASS?
+
+
+Css framework
+
+Bootstrap
+
+Tailwind CSS
+
+
+
+Vanilla Javascript:
+
+Fundamentals
+
+Dom
+
+JSON
+
+Fetch API
+
+Modern JS (ES6)
+
+
+
